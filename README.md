@@ -1,3 +1,5 @@
+Ejercicio de Curso Data Engineer de Udemy
+
 Modificar el archivo twilio_config.py colocado valores adecuado
 
 TWILIO_ACCOUNT_SID ='XxYyZzXxYyZzXxYyZzXxYyZzXxYyZzXxYyZz'
