@@ -21,3 +21,8 @@ to='+573222007879'
 ## fuente :
 
 https://crontab.guru/
+
+https://www.youtube.com/watch?v=kEPF-MWGq1w
+
+https://www.youtube.com/watch?v=hWglK8nWh60
+
